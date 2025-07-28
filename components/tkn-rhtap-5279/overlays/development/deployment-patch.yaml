@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/lucarval-rhtap/tkn-rhtap-5279:2336efa91555d27843e98f3c6974ab56c019f95f@sha256:76feabcef82778eb2108e454e8093f80b61f017fb305f1daaafb59ce449120d1
+        - image: quay.io/lucarval-rhtap/tkn-rhtap-5279:2d68d5ff3b259ef13557de490cce2bd83051d756@sha256:8f8d75dcca0bf37ab25cb73e9b800990518f512ff6cbb81d7bc73f40d13a926b
           name: container-image
