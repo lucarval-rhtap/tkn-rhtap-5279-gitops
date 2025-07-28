@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tkn-rhtap-5279-repository
+spec:
+  url: https://github.com/lucarval-rhtap/tkn-rhtap-5279
